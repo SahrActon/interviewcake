@@ -16,7 +16,7 @@ public class Big_O {
     }
 
     /***
-     * This function runs in O(n) time (or "linear time"), where nn is the number of items in the list.
+     * This function runs in O(n) time (or "linear time"), where n is the number of items in the list.
      * If the list has 10 items, we have to print 10 times. If it has 1,000 items, we have to print 1,000 times.
      * @param items
      */
